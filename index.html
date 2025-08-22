@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant App</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>African Eats 🗺️</h1>
+        <input type="text" id="search-input" placeholder="Search for a restaurant by name...">
+    </header>
+
+    <main>
+        <section class="map-container">
+            <div id="map"></div>
+        </section>
+
+        <section class="interaction-form">
+            <div class="card">
+                <h2>Share Your Experience</h2>
+                <form id="review-form">
+                    <label for="restaurant-select">Select Restaurant:</label>
+                    <select id="restaurant-select"></select>
+                    
+                    <button type="button" id="check-in-btn">Check In Here</button>
+
+                    <label for="photo-upload">Upload a Photo:</label>
+                    <input type="file" id="photo-upload" accept="image/*">
+                    
+                    <label for="review-text">Your Review:</label>
+                    <textarea id="review-text" placeholder="Write your review here..."></textarea>
+                    
+                    <button type="submit" id="save-btn">Save Review</button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Susu African Restaurant",
+    "cuisine": "Nigerian, Ghanaian",
+    "address": "2525 Carling Ave, Ottawa, ON K2B 7H6",
+    "website": "http://www.susuottawa.com",
+    "menu_link": "http://www.susuottawa.com/menu",
+    "location": {
+      "lat": 45.361,
+      "lng": -75.789
+    }
+  },
+  {
+    "id": 2,
+    "name": "African Village Restaurant",
+    "cuisine": "Ethiopian, Eritrean",
+    "address": "416 Rideau St, Ottawa, ON K1N 5Y5",
+    "website": "https://www.africanvillageottawa.com",
+    "menu_link": "https://www.africanvillageottawa.com/menu",
+    "location": {
+      "lat": 45.429,
+      "lng": -75.688
+    }
+  },
+  {
+    "id": 3,
+    "name": "Bissap African Restaurant",
+    "cuisine": "Senegalese",
+    "address": "3580 Innes Rd, Orléans, ON K1C 1T1",
+    "website": "https://www.bissap.ca",
+    "menu_link": "https://www.bissap.ca/menu",
+    "location": {
+      "lat": 45.474,
+      "lng": -75.498
+    }
+  },
+  {
+    "id": 4,
+    "name": "D'Angelo's Soul Food",
+    "cuisine": "Soul Food, West African",
+    "address": "2262 St Laurent Blvd, Ottawa, ON K1G 1C4",
+    "website": "http://www.dangelossoulfood.com",
+    "menu_link": "http://www.dangelossoulfood.com/menu",
+    "location": {
+      "lat": 45.393,
+      "lng": -75.642
+    }
+  },
+  {
+    "id": 5,
+    "name": "Alhuda Restaurant",
+    "cuisine": "Somali",
+    "address": "1644 Bank St, Ottawa, ON K1V 7Y6",
+    "website": "https://alhudarestaurant.com",
+    "menu_link": "https://alhudarestaurant.com/menu",
+    "location": {
+      "lat": 45.369,
+      "lng": -75.679
+    }
+  },
+  {
+    "id": 6,
+    "name": "House of African Food",
+    "cuisine": "Nigerian",
+    "address": "400 Dalhousie St, Ottawa, ON K1N 7G6",
+    "website": "https://www.houseofafricanfood.com",
+    "menu_link": "https://www.houseofafricanfood.com/menu",
+    "location": {
+      "lat": 45.433,
+      "lng": -75.688
+    }
+  },
+  {
+    "id": 7,
+    "name": "Double 7 Bar & Grill",
+    "cuisine": "Cameroonian",
+    "address": "1020 St Laurent Blvd, Ottawa, ON K1K 4S2",
+    "website": "https://www.double7.ca",
+    "menu_link": "https://www.double7.ca/menu",
+    "location": {
+      "lat": 45.421,
+      "lng": -75.666
+    }
+  },
+  {
+    "id": 8,
+    "name": "Taste of Africa",
+    "cuisine": "Sudanese, East African",
+    "address": "2446 Bank St, Ottawa, ON K1V 1A4",
+    "website": "https://www.tasteofafricaottawa.ca",
+    "menu_link": "https://www.tasteofafricaottawa.ca/menu",
+    "location": {
+      "lat": 45.362,
+      "lng": -75.659
+    }
+  },
+  {
+    "id": 9,
+    "name": "Suya Joint African Grill",
+    "cuisine": "Nigerian",
+    "address": "1537 Merivale Rd, Nepean, ON K2G 3J4",
+    "website": "https://www.suyajoint.com",
+    "menu_link": "https://www.suyajoint.com/menu",
+    "location": {
+      "lat": 45.337,
+      "lng": -75.727
+    }
+  },
+  {
+    "id": 10,
+    "name": "YKO Chicken BBQ",
+    "cuisine": "Ghanaian",
+    "address": "229 McArthur Ave, Ottawa, ON K1L 6J7",
+    "website": "https://www.ykochicken.ca",
+    "menu_link": "https://www.ykochicken.ca/menu",
+    "location": {
+      "lat": 45.423,
+      "lng": -75.656
+    }
+  },
+  {
+    "id": 11,
+    "name": "Horn of Africa",
+    "cuisine": "Ethiopian",
+    "address": "364 Rideau St, Ottawa, ON K1N 5Y6",
+    "website": "http://www.hornofafrica.ca",
+    "menu_link": "http://www.hornofafrica.ca/menu",
+    "location": {
+      "lat": 45.429,
+      "lng": -75.689
+    }
+  },
+  {
+    "id": 12,
+    "name": "Restaurant Habesha",
+    "cuisine": "Ethiopian",
+    "address": "574 Rideau St, Ottawa, ON K1N 6B7",
+    "website": "http://www.habesharestaurant.ca",
+    "menu_link": "http://www.habesharestaurant.ca/menu",
+    "location": {
+      "lat": 45.432,
+      "lng": -75.688
+    }
+  },
+  {
+    "id": 13,
+    "name": "La Teranga",
+    "cuisine": "Senegalese",
+    "address": "2010 Ogilvie Rd, Gloucester, ON K1J 7N6",
+    "website": "https://www.lateranga.ca",
+    "menu_link": "https://www.lateranga.ca/menu",
+    "location": {
+      "lat": 45.454,
+      "lng": -75.617
+    }
+  },
+  {
+    "id": 14,
+    "name": "African Kitchen & Catering",
+    "cuisine": "Nigerian",
+    "address": "1284 Wellington St W, Ottawa, ON K1Y 3A9",
+    "website": "http://www.africankitchen.ca",
+    "menu_link": "http://www.africankitchen.ca/menu",
+    "location": {
+      "lat": 45.399,
+      "lng": -75.738
+    }
+  },
+  {
+    "id": 15,
+    "name": "Kafé 1870",
+    "cuisine": "Moroccan",
+    "address": "531 Sussex Dr, Ottawa, ON K1N 6Z6",
+    "website": "http://www.kafe1870.com",
+    "menu_link": "http://www.kafe1870.com/menu",
+    "location": {
+      "lat": 45.429,
+      "lng": -75.698
+    }
+  }
+]

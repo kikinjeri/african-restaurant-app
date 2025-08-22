@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+#search-input {
+    padding: 0.5rem;
+    width: 80%;
+    max-width: 400px;
+    margin-top: 1rem;
+}
+
+.map-container {
+    height: 400px;
+    margin: 20px;
+}
+
+#map {
+    height: 100%;
+}
+
+.interaction-form {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    width: 100%;
+    max-width: 500px;
+}
+
+#review-form label {
+    display: block;
+    margin-top: 10px;
+}
+
+#review-form input, #review-form textarea, #review-form select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+
+#check-in-btn, #save-btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 15px;
+    background-color: #5cb85c;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
